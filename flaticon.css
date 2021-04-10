@@ -1,0 +1,154 @@
+@font-face {
+    font-family: "Flaticon";
+    src: url("/fonts/flaticon.eot");
+    src: url("/fonts/flaticon.eot?#iefix") format("embedded-opentype"),
+       url("/fonts/flaticon.woff") format("woff"),
+       url("/fonts/flaticon.ttf") format("truetype"),
+       url("/fonts/flaticon.svg#Flaticon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("/fonts/flaticon.svg#Flaticon") format("svg");
+  }
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before, [class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+    font-family: Flaticon;
+    font-size: 60px;
+    font-style: normal;
+    margin-left: 0px;
+}
+.flaticon-flasher:before {
+    content: "\f100";
+}
+.flaticon-shield:before {
+    content: "\f101";
+}
+.flaticon-bell:before {
+    content: "\f102";
+}
+.flaticon-alarm-1:before {
+    content: "\f103";
+}
+.flaticon-alarm-bell:before {
+    content: "\f104";
+}
+.flaticon-wifi:before {
+    content: "\f105";
+}
+.flaticon-password:before {
+    content: "\f106";
+}
+.flaticon-safebox-1:before {
+    content: "\f107";
+}
+.flaticon-fire-1:before {
+    content: "\f108";
+}
+.flaticon-do-not-touch:before {
+    content: "\f109";
+}
+.flaticon-fire:before {
+    content: "\f10a";
+}
+.flaticon-gas-mask:before {
+    content: "\f10b";
+}
+.flaticon-cctv-2:before {
+    content: "\f10c";
+}
+.flaticon-cctv-1:before {
+    content: "\f10d";
+}
+.flaticon-sheriff:before {
+    content: "\f10e";
+}
+.flaticon-webcam:before {
+    content: "\f10f";
+}
+.flaticon-safebox:before {
+    content: "\f110";
+}
+.flaticon-hydrant:before {
+    content: "\f111";
+}
+.flaticon-baton:before {
+    content: "\f112";
+}
+.flaticon-museum:before {
+    content: "\f113";
+}
+.flaticon-evidence:before {
+    content: "\f114";
+}
+.flaticon-browser-1:before {
+    content: "\f115";
+}
+.flaticon-file-1:before {
+    content: "\f116";
+}
+.flaticon-siren-1:before {
+    content: "\f117";
+}
+.flaticon-bug:before {
+    content: "\f118";
+}
+.flaticon-siren:before {
+    content: "\f119";
+}
+.flaticon-jail:before {
+    content: "\f11a";
+}
+.flaticon-file:before {
+    content: "\f11b";
+}
+.flaticon-padlock:before {
+    content: "\f11c";
+}
+.flaticon-alarm:before {
+    content: "\f11d";
+}
+.flaticon-browser:before {
+    content: "\f11e";
+}
+.flaticon-fingerprint:before {
+    content: "\f11f";
+}
+.flaticon-cctv:before {
+    content: "\f120";
+}
+.flaticon-police:before {
+    content: "\f121";
+}
+.flaticon-devices:before {
+    content: "\f122";
+}
+.flaticon-luggage:before {
+    content: "\f123";
+}
+.flaticon-database:before {
+    content: "\f124";
+}
+.flaticon-credit-card:before {
+    content: "\f125";
+}
+.flaticon-bugs:before {
+    content: "\f126";
+}
+.flaticon-handcuffs:before {
+    content: "\f127";
+}
+.flaticon-insurance:before {
+    content: "\f128";
+}
+.flaticon-fire-alarm:before {
+    content: "\f129";
+}
+.flaticon-cloud-computing:before {
+    content: "\f12a";
+}
+.flaticon-law-book:before {
+    content: "\f12b";
+}
